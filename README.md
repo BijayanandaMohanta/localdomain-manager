@@ -1,5 +1,4 @@
-<img width="1402" height="1122" alt="ChatGPT Image May 16, 2026, 09_00_43 PM_compressed" src="https://github.com/user-attachments/assets/e112e15d-30e7-43d1-91a4-ea88ab7f9185" />
-
+<img width="2839" height="1780" alt="Screenshot 2026-05-16 210417" src="https://github.com/user-attachments/assets/0876a146-9f7b-4708-8899-6bf78e80247e" />
 
 # Local Domain Manager
 
