@@ -1,3 +1,6 @@
+<img width="1402" height="1122" alt="ChatGPT Image May 16, 2026, 09_00_43 PM_compressed" src="https://github.com/user-attachments/assets/e112e15d-30e7-43d1-91a4-ea88ab7f9185" />
+
+
 # Local Domain Manager
 
 Local Domain Manager is a small PHP tool for Windows + XAMPP that helps you create and manage local domains for Apache projects such as plain PHP apps or Laravel projects.
